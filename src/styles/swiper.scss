@@ -1,0 +1,45 @@
+.swiper-button-next {
+  right: 45px;
+}
+
+.swiper-button-prev {
+  left: 45px;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  color: #ffba08;
+}
+
+.swiper-pagination-bullet {
+  width: 16px;
+  height: 16px;
+  background: #999999;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffba08;
+}
+
+// mobile
+@media (max-width: 768px) {
+  .swiper-button-next {
+    right: 10px;
+  }
+
+  .swiper-button-prev {
+    left: 10px;
+  }
+
+  .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    background: #999999;
+    opacity: 1;
+  }
+
+  .swiper-pagination-bullet-active {
+    background: #ffba08;
+  }
+}

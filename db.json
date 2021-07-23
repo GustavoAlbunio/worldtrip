@@ -1,0 +1,412 @@
+{
+  "continents": [
+    {
+      "id": "europe",
+      "title": "Europa",
+      "subtitle": "Uma das melhores culinárias do mundo.",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "info": {
+        "countries": 50,
+        "languages": 24,
+        "cities": 106
+      },
+      "banner": {
+        "src": "https://images.unsplash.com/photo-1493707553966-283afac8c358?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      },
+      "cities": [
+        {
+          "id": "london",
+          "city": "Londres",
+          "country": "Reino Unido",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1589657068463-ef4077ce0d10?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+            "alt": "london"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg",
+            "alt": "uk flag"
+          }
+        },
+        {
+          "id": "paris",
+          "city": "Paris",
+          "country": "França",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+            "alt": "paris"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
+            "alt": "france flag"
+          }
+        },
+        {
+          "id": "rome",
+          "city": "Roma",
+          "country": "Itália",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
+            "alt": "rome"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png",
+            "alt": "italy flag"
+          }
+        },
+        {
+          "id": "prague",
+          "city": "Praga",
+          "country": "Republica Tcheca",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1458150945447-7fb764c11a92?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "prague"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png",
+            "alt": "czech republic flag"
+          }
+        },
+        {
+          "id": "amsterdam",
+          "city": "Amsterdã",
+          "country": "Holanda",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "amsterdam"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_of_the_Netherlands.png",
+            "alt": "netherlands flag"
+          }
+        }
+      ]
+    },
+    {
+      "id": "north-america",
+      "title": "América do Norte",
+      "subtitle": "Conheça lugares bem legais e divirta-se.",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci exercitationem perferendis eveniet a velit in at laudantium ab distinctio, repudiandae iste cumque, dolorem non nihil expedita. Praesentium provident et illum.",
+      "info": {
+        "countries": 3,
+        "languages": 256,
+        "cities": 28
+      },
+      "banner": {
+        "src": "https://images.unsplash.com/photo-1588272947922-21cbc34dc3a7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      },
+      "cities": [
+        {
+          "id": "chicago",
+          "city": "Chicago",
+          "country": "Estados Unidos",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80",
+            "alt": "chicago"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png",
+            "alt": "eua flag"
+          }
+        },
+        {
+          "id": "toronto",
+          "city": "Toronto",
+          "country": "Canadá",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1486325212027-8081e485255e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "toronto"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png",
+            "alt": "canada flag"
+          }
+        },
+        {
+          "id": "vancouver",
+          "city": "Vancouver",
+          "country": "Canadá",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1392&q=80",
+            "alt": "vancouver"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png",
+            "alt": "canada flag"
+          }
+        },
+        {
+          "id": "los-angeles",
+          "city": "Los Angeles",
+          "country": "Estados Unidos",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1574910844753-9f49dd2af188?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+            "alt": "los angeles"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png",
+            "alt": "eua flag"
+          }
+        }
+      ]
+    },
+    {
+      "id": "south-america",
+      "title": "América do Sul",
+      "subtitle": "Paraíso de praias de águas cristalinas.",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci exercitationem perferendis eveniet a velit in at laudantium ab distinctio, repudiandae iste cumque, dolorem non nihil expedita. Praesentium provident et illum.",
+      "info": {
+        "countries": 12,
+        "languages": 456,
+        "cities": 36
+      },
+      "banner": {
+        "src": "https://images.unsplash.com/photo-1519114056088-b877fe073a5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1490&q=80"
+      },
+      "cities": [
+        {
+          "id": "fortaleza",
+          "city": "Fortaleza",
+          "country": "Brasil",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1616969627028-619ae07818da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+            "alt": "fortaleza"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png",
+            "alt": "brazil flag"
+          }
+        },
+        {
+          "id": "rio-de-janeiro",
+          "city": "Rio de Janeiro",
+          "country": "Brasil",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "rio de janeiro"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png",
+            "alt": "brazil flag"
+          }
+        },
+        {
+          "id": "montevideu",
+          "city": "Montevidéu",
+          "country": "Uruguai",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1618658515965-9f56ee70b4fd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "montevidéu"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
+            "alt": "uruguay flag"
+          }
+        },
+        {
+          "id": "buenos-aires",
+          "city": "Buenos Aires",
+          "country": "Argentina",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1612294037637-ec328d0e075e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "buenos aires"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png",
+            "alt": "argentina flag"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "title": "Ásia",
+      "subtitle": "Japão, paisagens deslumbrantes.",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci exercitationem perferendis eveniet a velit in at laudantium ab distinctio, repudiandae iste cumque, dolorem non nihil expedita. Praesentium provident et illum.",
+      "info": {
+        "countries": 50,
+        "languages": 2301,
+        "cities": 34
+      },
+      "banner": {
+        "src": "https://images.unsplash.com/photo-1509023464722-18d996393ca8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      },
+      "cities": [
+        {
+          "id": "tokio",
+          "city": "Tóquio",
+          "country": "Japão",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1570521462033-3015e76e7432?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+            "alt": "tokio"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "alt": "japan flag"
+          }
+        },
+        {
+          "id": "seoul",
+          "city": "Seul",
+          "country": "Coreia do Sul",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1534274867514-d5b47ef89ed7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1270&q=80",
+            "alt": "seoul"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2560px-Flag_of_South_Korea.svg.png",
+            "alt": "korea south flag"
+          }
+        },
+        {
+          "id": "hong-kong",
+          "city": "Hong Kong",
+          "country": "China",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "hong kong"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/1024px-Flag_of_China.png",
+            "alt": "china flag"
+          }
+        },
+        {
+          "id": "xangai",
+          "city": "Xangai",
+          "country": "China",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1567133803606-3601463f3981?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "shanghai"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/1024px-Flag_of_China.png",
+            "alt": "china flag"
+          }
+        },
+        {
+          "id": "nova-delhi",
+          "city": "Nova Delhi",
+          "country": "India",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1575566668200-7dcaa7b2cf28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+            "alt": "nova delhi"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/2560px-Flag_of_India.svg.png",
+            "alt": "india flag"
+          }
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "title": "África",
+      "subtitle": "O terceiro continente mais extenso.",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci exercitationem perferendis eveniet a velit in at laudantium ab distinctio, repudiandae iste cumque, dolorem non nihil expedita. Praesentium provident et illum.",
+      "info": {
+        "countries": 54,
+        "languages": 1000,
+        "cities": 50
+      },
+      "banner": {
+        "src": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80"
+      },
+      "cities": [
+        {
+          "id": "cidade-do-cabo",
+          "city": "Cidade do Cabo",
+          "country": "África do Sul",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80",
+            "alt": "cape town"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1024px-Flag_of_South_Africa.svg.png",
+            "alt": "africa flag"
+          }
+        },
+        {
+          "id": "cairo",
+          "city": "Cairo",
+          "country": "Egito",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "cairo"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+            "alt": "egito flag"
+          }
+        },
+        {
+          "id": "johannesburgo",
+          "city": "Johannesburgo",
+          "country": "África do Sul",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+            "alt": "johannesburgo"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1024px-Flag_of_South_Africa.svg.png",
+            "alt": "africa flag"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "title": "Oceania",
+      "subtitle": "Austrália, o paraíso dos cangurus",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci exercitationem perferendis eveniet a velit in at laudantium ab distinctio, repudiandae iste cumque, dolorem non nihil expedita. Praesentium provident et illum.",
+      "info": {
+        "countries": 14,
+        "languages": 2000,
+        "cities": 20
+      },
+      "banner": {
+        "src": "https://images.unsplash.com/photo-1608644436625-a694e690d0ac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+      },
+      "cities": [
+        {
+          "id": "sidney",
+          "city": "Sidney",
+          "country": "Austrália",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1546268060-2592ff93ee24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "sidney"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png",
+            "alt": "australia flag"
+          }
+        },
+        {
+          "id": "camberra",
+          "city": "Camberra",
+          "country": "Austrália",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1584241457764-53b831eab9cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+            "alt": "camberra"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png",
+            "alt": "australia flag"
+          }
+        },
+        {
+          "id": "wellington",
+          "city": "Wellington",
+          "country": "Nova Zelândia",
+          "banner": {
+            "src": "https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "alt": "wellington"
+          },
+          "flag": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/2560px-Flag_of_New_Zealand.svg.png",
+            "alt": "new zeland flag"
+          }
+        }
+      ]
+    }
+  ]
+}
