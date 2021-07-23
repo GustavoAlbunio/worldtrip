@@ -32,9 +32,9 @@ export function Slider({ continents }: SliderProps) {
         slidesPerView={1}
         navigation
         pagination={{ clickable: true }}
-        // autoplay={{
-        //   delay: 4000,
-        // }}
+        autoplay={{
+          delay: 4000,
+        }}
         style={{ flex: 1 }}
       >
         {continents.map(({ id, title, subtitle, banner: { src } }) => (
